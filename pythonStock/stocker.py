@@ -978,4 +978,4 @@ class Stocker():
         plt.grid(color='k', alpha=0.3)
         plt.xticks(results['cps'], results['cps'])
         plt.legend(prop={'size':10})
-        plt.show();
+plt.show();
